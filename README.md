@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @OlexiyDobroskok
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 OlexiyDobroskok/OlexiyDobroskok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
